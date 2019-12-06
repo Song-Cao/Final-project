@@ -1,3 +1,3 @@
 # Final-project
 --------------
-An open source repository for image processing
+- An open source repository for image processing
